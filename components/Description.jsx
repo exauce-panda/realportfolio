@@ -49,7 +49,7 @@ Je suis convaincu de mes capacités, notamment en matière de travail en équipe
                     )}
                 </p>
                 <div className="text-center">
-                    {/* Bouton pour basculer l'affichage du texte */}
+                    {/* Boutonpour basculer l'affichage du texte */}
                     <button onClick={toggleReadMore} className="btn-success btn mt-3">
                         {showFullText ? 'Revenir au text précedent' : 'En apprendre plus sur moi'}
                     </button>
